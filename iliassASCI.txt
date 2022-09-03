@@ -1,0 +1,13 @@
+    {
+      type = "text",
+      val = astronvim.user_plugin_opts("header", {
+        "▪  ▄▄▌  ▪   ▄▄▄· .▄▄ · .▄▄ · ",
+        "██ ██•  ██ ▐█ ▀█ ▐█ ▀. ▐█ ▀. ",
+        "▐█·██▪  ▐█·▄█▀▀█ ▄▀▀▀█▄▄▀▀▀█▄",
+        "▐█▌▐█▌▐▌▐█▌▐█ ▪▐▌▐█▄▪▐█▐█▄▪▐█",
+        "▀▀▀.▀▀▀ ▀▀▀ ▀  ▀  ▀▀▀▀  ▀▀▀▀ ",
+        " ",
+      }, false),
+      opts = { position = "center", hl = "DashboardHeader" },
+    },
+
